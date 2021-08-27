@@ -1,0 +1,20 @@
+{
+    "name": "kangst/rsa",
+    "description": "rsa",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KangRSA\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kang Shutian",
+            "email": "kst157521@163.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
